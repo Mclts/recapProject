@@ -1,0 +1,15 @@
+C:\Users\W10\Desktop\Asp.Net\RecapProject1\bin\Debug\RecapProject1.exe.config
+C:\Users\W10\Desktop\Asp.Net\RecapProject1\bin\Debug\RecapProject1.exe
+C:\Users\W10\Desktop\Asp.Net\RecapProject1\bin\Debug\RecapProject1.pdb
+C:\Users\W10\Desktop\Asp.Net\RecapProject1\bin\Debug\EntityFramework.dll
+C:\Users\W10\Desktop\Asp.Net\RecapProject1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\W10\Desktop\Asp.Net\RecapProject1\bin\Debug\EntityFramework.xml
+C:\Users\W10\Desktop\Asp.Net\RecapProject1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\W10\Desktop\Asp.Net\RecapProject1\obj\Debug\RecapProject1.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Asp.Net\RecapProject1\obj\Debug\RecapProject1.Form1.resources
+C:\Users\W10\Desktop\Asp.Net\RecapProject1\obj\Debug\RecapProject1.Properties.Resources.resources
+C:\Users\W10\Desktop\Asp.Net\RecapProject1\obj\Debug\RecapProject1.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\Asp.Net\RecapProject1\obj\Debug\RecapProject1.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Asp.Net\RecapProject1\obj\Debug\RecapPro.A6804E15.Up2Date
+C:\Users\W10\Desktop\Asp.Net\RecapProject1\obj\Debug\RecapProject1.exe
+C:\Users\W10\Desktop\Asp.Net\RecapProject1\obj\Debug\RecapProject1.pdb
